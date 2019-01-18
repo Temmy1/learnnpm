@@ -1,6 +1,6 @@
 {
   "name": "first",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "my first package",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temmy1/learnnpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Temmy1/learnnpm/issues"
+  },
+  "homepage": "https://github.com/Temmy1/learnnpm#readme"
 }

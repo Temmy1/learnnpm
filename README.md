@@ -1,0 +1,1 @@
+it is a task from nodeschool 'how-to-npm'
